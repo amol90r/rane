@@ -7,6 +7,10 @@ public class Hello
 		System.out.println("this is first change in git");
 	}
 	
+	public void m2()
+	{
+		System.out.println("this is for bramch creation from git");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("hello");
