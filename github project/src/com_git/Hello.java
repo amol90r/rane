@@ -15,6 +15,10 @@ public class Hello
 	{
 		System.out.println("this is for m4");
 	}
+	public void m5()
+	{
+		System.out.println("m5 return to eclipse");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("hello");
