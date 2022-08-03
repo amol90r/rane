@@ -11,6 +11,10 @@ public class Hello
 	{
 		System.out.println("this is for bramch creation from git");
 	}
+	public void m4()
+	{
+		System.out.println("this is for m4");
+	}
 	public static void main(String[] args) 
 	{
 		System.out.println("hello");
